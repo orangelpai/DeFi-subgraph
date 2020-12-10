@@ -1,2 +1,2 @@
-# rari-capital-subgraph
-Query the data from Rari Capital V2
+# DeFi-Projects-Subgraph
+Query the data from some interesting and innovate DeFi Projects
